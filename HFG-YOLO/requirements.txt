@@ -1,0 +1,2 @@
+PyWavelets==1.8.0
+fvcore
