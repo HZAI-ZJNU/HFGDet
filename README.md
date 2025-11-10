@@ -41,9 +41,7 @@ Download and extract [VisDrone2019](https://github.com/VisDrone/VisDrone-Dataset
 
 ## Train in YOLO
 
-Train with 8 GPUs:
-
-```
+```shell
 cd HFG-YOLO
 
 python train.py
