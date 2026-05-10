@@ -2,7 +2,7 @@
 
 # HFGDet
 
-Official PyTorch implementation of "HFGDet: High Frequency Guided UAV Small Object Detection"
+Official PyTorch implementation of "HFGDet: High Frequency Guided Small Object Detection via Wavelet Transform"
 
 ## Coming Soon
 
